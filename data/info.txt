@@ -17,6 +17,7 @@ Herramientas que ya conozco:
 - Matlab
 - Random Forests
 - Redes neuronales
+- El uso de Google Collab como herramienta de programación
 
 Herramientas nuevas para mí:
 - Iris
