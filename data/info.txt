@@ -1,0 +1,23 @@
+INFORMACIÓN PERSONAL - TC2004B
+
+Nombre: Natalia Ixchel Reynoso Ramírez
+Matrícula: A01352603
+Carrera: Ingeniería en Ciencia de Datos y Matemáticas
+Semestre: 4to
+
+¿Por qué tomé este curso?
+Este curso es un bloque que forma parte de mi plan de estudios, y el cual me interesó por todas lass herramientas que aprenderé en este, y por las habilidades que desarrollaré para mi vida profesional.
+
+¿Qué espero aprender?
+Espero aprender modelos de Machine Learning que me permitan modelar casos de la vida real, y también utilizar mucho Python para poner en práctica mis conocimientos.
+
+Herramientas que ya conozco:
+- Python y sus librerías (Seaborn, Matplotlib, NumPy, Pandas, etc.)
+- R
+- Matlab
+- Random Forests
+- Redes neuronales
+
+Herramientas nuevas para mí:
+- Iris
+- El uso de la terminal
